@@ -1,8 +1,5 @@
 # 19CS408--ATM
 
-### Name:VARNIKA.P
-### Reg No:212223240170
-
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of 
 ATM System. 
